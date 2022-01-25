@@ -1,0 +1,16 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\bin\Debug\day2Numbers(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\bin\Debug\day2Numbers(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\bin\Debug\day2Numbers(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\bin\Debug\day2Numbers(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\bin\Debug\day2Numbers(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\bin\Debug\day2Numbers(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Numbers(for loop)\day2Numbers(for loop)\obj\Debug\day2Numbers(for loop).pdb

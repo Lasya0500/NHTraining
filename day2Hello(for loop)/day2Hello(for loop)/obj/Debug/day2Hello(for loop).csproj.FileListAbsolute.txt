@@ -1,0 +1,16 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\bin\Debug\day2Hello(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\bin\Debug\day2Hello(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\bin\Debug\day2Hello(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENT BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\bin\Debug\day2Hello(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\bin\Debug\day2Hello(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\bin\Debug\day2Hello(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY2 MORNING ASSIGNMENTS BY G V S S SRI LASYA(25-01-22)\day2Hello(for loop)\day2Hello(for loop)\obj\Debug\day2Hello(for loop).pdb
