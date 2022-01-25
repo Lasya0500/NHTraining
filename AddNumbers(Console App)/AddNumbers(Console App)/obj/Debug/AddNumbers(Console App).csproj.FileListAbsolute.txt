@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\bin\Debug\AddNumbers(Console App).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\bin\Debug\AddNumbers(Console App).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\bin\Debug\AddNumbers(Console App).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\obj\Debug\AddNumbers(Console App).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\obj\Debug\AddNumbers(Console App).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\obj\Debug\AddNumbers(Console App).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\obj\Debug\AddNumbers(Console App).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\AddNumbers(Console App)\AddNumbers(Console App)\obj\Debug\AddNumbers(Console App).pdb

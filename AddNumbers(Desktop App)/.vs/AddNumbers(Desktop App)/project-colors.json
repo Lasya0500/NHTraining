@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b53d59c-14a1-4b1f-874b-241656fd5978": {
+      "ProjectGuid": "1b53d59c-14a1-4b1f-874b-241656fd5978",
+      "DisplayName": "AddNumbers(Desktop App)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

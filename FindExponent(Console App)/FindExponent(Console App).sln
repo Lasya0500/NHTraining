@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindExponent(Console App)", "FindExponent(Console App)\FindExponent(Console App).csproj", "{109A5B05-AAE1-4748-BE6A-F09E3433D03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109A5B05-AAE1-4748-BE6A-F09E3433D03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109A5B05-AAE1-4748-BE6A-F09E3433D03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109A5B05-AAE1-4748-BE6A-F09E3433D03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109A5B05-AAE1-4748-BE6A-F09E3433D03B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4D16D1-CF9B-4853-875C-2B27FE714C5B}
+	EndGlobalSection
+EndGlobal

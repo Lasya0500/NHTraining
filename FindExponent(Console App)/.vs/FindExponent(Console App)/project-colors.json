@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "109a5b05-aae1-4748-be6a-f09e3433d03b": {
+      "ProjectGuid": "109a5b05-aae1-4748-be6a-f09e3433d03b",
+      "DisplayName": "FindExponent(Console App)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

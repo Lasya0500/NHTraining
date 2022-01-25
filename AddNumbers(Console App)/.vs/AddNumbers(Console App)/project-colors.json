@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebc54d26-e6b4-446e-8568-ce1d1d718184": {
+      "ProjectGuid": "ebc54d26-e6b4-446e-8568-ce1d1d718184",
+      "DisplayName": "AddNumbers(Console App)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
