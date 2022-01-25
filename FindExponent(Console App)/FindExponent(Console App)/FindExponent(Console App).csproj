@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{109A5B05-AAE1-4748-BE6A-F09E3433D03B}</ProjectGuid>
+    <ProjectGuid>{5B593B3B-F9A9-40B7-8882-A44A8455C42A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>FindExponent_Console_App_</RootNamespace>
     <AssemblyName>FindExponent%28Console App%29</AssemblyName>
