@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\bin\Debug\Factorail(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\bin\Debug\Factorail(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\bin\Debug\Factorail(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\obj\Debug\Factorail(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\obj\Debug\Factorail(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\obj\Debug\Factorail(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\obj\Debug\Factorail(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorail(for loop)\Factorail(for loop)\obj\Debug\Factorail(for loop).pdb

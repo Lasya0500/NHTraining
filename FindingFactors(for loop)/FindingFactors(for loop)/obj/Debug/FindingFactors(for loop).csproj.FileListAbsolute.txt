@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\bin\Debug\FindingFactors(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\bin\Debug\FindingFactors(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\bin\Debug\FindingFactors(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\obj\Debug\FindingFactors(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\obj\Debug\FindingFactors(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\obj\Debug\FindingFactors(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\obj\Debug\FindingFactors(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactors(for loop)\FindingFactors(for loop)\obj\Debug\FindingFactors(for loop).pdb

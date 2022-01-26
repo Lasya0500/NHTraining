@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b22c957f-a5b9-4dd4-82ed-c5c6532c505b": {
+      "ProjectGuid": "b22c957f-a5b9-4dd4-82ed-c5c6532c505b",
+      "DisplayName": "MultiplicationTable1(for loop)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\bin\Debug\Hello(while loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\bin\Debug\Hello(while loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\bin\Debug\Hello(while loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\obj\Debug\Hello(while loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\obj\Debug\Hello(while loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\obj\Debug\Hello(while loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\obj\Debug\Hello(while loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Hello(while loop)\Hello(while loop)\obj\Debug\Hello(while loop).pdb

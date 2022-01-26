@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\bin\Debug\MultiplicationTable1(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\bin\Debug\MultiplicationTable1(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\bin\Debug\MultiplicationTable1(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\obj\Debug\MultiplicationTable1(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\obj\Debug\MultiplicationTable1(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\obj\Debug\MultiplicationTable1(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\obj\Debug\MultiplicationTable1(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\MultiplicationTable1(for loop)\MultiplicationTable1(for loop)\obj\Debug\MultiplicationTable1(for loop).pdb
