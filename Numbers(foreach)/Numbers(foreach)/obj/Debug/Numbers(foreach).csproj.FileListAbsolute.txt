@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\obj\Debug\Numbers(foreach).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\obj\Debug\Numbers(foreach).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\obj\Debug\Numbers(foreach).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\bin\Debug\Numbers(foreach).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\bin\Debug\Numbers(foreach).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\bin\Debug\Numbers(foreach).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\obj\Debug\Numbers(foreach).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Numbers(foreach)\Numbers(foreach)\obj\Debug\Numbers(foreach).pdb

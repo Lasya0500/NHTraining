@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18cf08d3-1e19-45e3-bcf7-351a90caf836": {
+      "ProjectGuid": "18cf08d3-1e19-45e3-bcf7-351a90caf836",
+      "DisplayName": "Sum(foreach)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

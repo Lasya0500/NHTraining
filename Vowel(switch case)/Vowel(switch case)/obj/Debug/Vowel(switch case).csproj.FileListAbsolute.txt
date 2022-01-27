@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\bin\Debug\Vowel(switch case).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\bin\Debug\Vowel(switch case).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\bin\Debug\Vowel(switch case).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\obj\Debug\Vowel(switch case).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\obj\Debug\Vowel(switch case).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\obj\Debug\Vowel(switch case).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\obj\Debug\Vowel(switch case).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Vowel(switch case)\Vowel(switch case)\obj\Debug\Vowel(switch case).pdb
