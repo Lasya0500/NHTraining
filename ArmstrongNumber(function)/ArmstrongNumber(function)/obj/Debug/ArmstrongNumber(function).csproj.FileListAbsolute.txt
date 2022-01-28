@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\obj\Debug\ArmstrongNumber(function).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\obj\Debug\ArmstrongNumber(function).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\obj\Debug\ArmstrongNumber(function).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\bin\Debug\ArmstrongNumber(function).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\bin\Debug\ArmstrongNumber(function).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\bin\Debug\ArmstrongNumber(function).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\obj\Debug\ArmstrongNumber(function).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\ArmstrongNumber(function)\ArmstrongNumber(function)\obj\Debug\ArmstrongNumber(function).pdb

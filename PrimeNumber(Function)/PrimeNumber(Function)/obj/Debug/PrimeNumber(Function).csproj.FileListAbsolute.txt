@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\obj\Debug\PrimeNumber(Function).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\obj\Debug\PrimeNumber(Function).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\obj\Debug\PrimeNumber(Function).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\bin\Debug\PrimeNumber(Function).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\bin\Debug\PrimeNumber(Function).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\bin\Debug\PrimeNumber(Function).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\obj\Debug\PrimeNumber(Function).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumber(Function)\PrimeNumber(Function)\obj\Debug\PrimeNumber(Function).pdb

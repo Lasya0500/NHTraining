@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\obj\Debug\Factorial(usingMethod).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\obj\Debug\Factorial(usingMethod).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\obj\Debug\Factorial(usingMethod).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\bin\Debug\Factorial(usingMethod).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\bin\Debug\Factorial(usingMethod).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\bin\Debug\Factorial(usingMethod).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\obj\Debug\Factorial(usingMethod).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Factorial(usingMethod)\Factorial(usingMethod)\obj\Debug\Factorial(usingMethod).pdb

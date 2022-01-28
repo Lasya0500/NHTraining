@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\obj\Debug\FindingFactorial(recursion).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\obj\Debug\FindingFactorial(recursion).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\obj\Debug\FindingFactorial(recursion).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\bin\Debug\FindingFactorial(recursion).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\bin\Debug\FindingFactorial(recursion).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\bin\Debug\FindingFactorial(recursion).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\obj\Debug\FindingFactorial(recursion).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\FindingFactorial(recursion)\FindingFactorial(recursion)\obj\Debug\FindingFactorial(recursion).pdb

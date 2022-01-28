@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\bin\Debug\PrimeNumbers(Range).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\bin\Debug\PrimeNumbers(Range).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\bin\Debug\PrimeNumbers(Range).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\obj\Debug\PrimeNumbers(Range).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\obj\Debug\PrimeNumbers(Range).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\obj\Debug\PrimeNumbers(Range).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\obj\Debug\PrimeNumbers(Range).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\PrimeNumbers(Range)\PrimeNumbers(Range)\obj\Debug\PrimeNumbers(Range).pdb

@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\obj\Debug\Pattern(for loop).csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\obj\Debug\Pattern(for loop).csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\obj\Debug\Pattern(for loop).csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\bin\Debug\Pattern(for loop).exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\bin\Debug\Pattern(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\bin\Debug\Pattern(for loop).pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\obj\Debug\Pattern(for loop).exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Pattern(for loop)\Pattern(for loop)\obj\Debug\Pattern(for loop).pdb
