@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\obj\Debug\SumOfDigits_new.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\obj\Debug\SumOfDigits_new.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\obj\Debug\SumOfDigits_new.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\bin\Debug\SumOfDigits_new.exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\bin\Debug\SumOfDigits_new.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\bin\Debug\SumOfDigits_new.pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\obj\Debug\SumOfDigits_new.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\SumOfDigits_new\SumOfDigits_new\obj\Debug\SumOfDigits_new.pdb

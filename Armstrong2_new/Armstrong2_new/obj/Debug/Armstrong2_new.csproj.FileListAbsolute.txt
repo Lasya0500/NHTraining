@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\bin\Debug\Armstrong2_new.exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\bin\Debug\Armstrong2_new.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\bin\Debug\Armstrong2_new.pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\obj\Debug\Armstrong2_new.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\obj\Debug\Armstrong2_new.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\obj\Debug\Armstrong2_new.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\obj\Debug\Armstrong2_new.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Armstrong2_new\Armstrong2_new\obj\Debug\Armstrong2_new.pdb
