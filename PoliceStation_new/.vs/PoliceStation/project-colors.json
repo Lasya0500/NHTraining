@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65a20f47-19e0-4520-a5ea-6e27cc5d446c": {
+      "ProjectGuid": "65a20f47-19e0-4520-a5ea-6e27cc5d446c",
+      "DisplayName": "PoliceStation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
