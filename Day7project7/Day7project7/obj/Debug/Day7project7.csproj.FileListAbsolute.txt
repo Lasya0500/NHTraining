@@ -1,8 +1,0 @@
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\obj\Debug\Day7project7.csproj.SuggestedBindingRedirects.cache
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\obj\Debug\Day7project7.csproj.CoreCompileInputs.cache
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\bin\Debug\Day7project7.exe.config
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\bin\Debug\Day7project7.exe
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\bin\Debug\Day7project7.pdb
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\obj\Debug\Day7project7.csproj.AssemblyReference.cache
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\obj\Debug\Day7project7.exe
-C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day7project7\Day7project7\obj\Debug\Day7project7.pdb

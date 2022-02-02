@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace D7Project2
 {
-    internal class Department
+   /* internal class Department
     {
         private string departmentName;
         private string departmentId;
@@ -40,4 +40,5 @@ namespace D7Project2
             //todo
         }
     }
+   */
 }

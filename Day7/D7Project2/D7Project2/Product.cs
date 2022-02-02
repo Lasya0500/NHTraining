@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace D7Project2
 {
-    internal class Product
+    /*internal class Product
     {
         
             private string productCategory;
@@ -41,5 +41,5 @@ namespace D7Project2
             }
         
 
-    }
+    }*/
 }
