@@ -6,41 +6,41 @@ using System.Threading.Tasks;
 
 namespace D7Project2
 {
-   /* class Customer
-    {
-        private string customerName;
-        private string customerID;
-        private string customerAddress;
-        private ulong customerContactNumber;
-        private string customerMailID;
+    /* class Customer
+     {
+         public  string customerName;
+         public  string customerID;
+         public  string customerAddress;
+         public  long customerContactNumber;
+         public  string customerMailID;
 
-        public void AddCustomer()
-        {
-            //todo
-        }
+         public void AddCustomer()
+         {
+             //todo
+         }
 
-        public void DeleteCustomer()
-        {
-            //todo
-        }
+         public void DeleteCustomer()
+         {
+             //todo
+         }
 
-        public void CustomertActivity()
-        {
-            //todo
-        }
+         public void CustomertActivity()
+         {
+             //todo
+         }
 
-        public void DisplayCustomer()
-        {
-            //todo
+         public void DisplayCustomer()
+         {
+             //todo
 
-        }
+         }
 
-        public void CustomerTransactions()
-        {
-            //todo
+         public void CustomerTransactions()
+         {
+             //todo
 
-        }
+         }
 
-    }*/
+     }*/
 
 }

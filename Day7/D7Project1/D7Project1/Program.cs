@@ -14,20 +14,20 @@ namespace D7Project1
 
     class Employee
     {
-        private uint employeeID;
-        private string employeeName;
-        private uint employeeSalary;
+        public int employeeID;
+        public string employeeName;
+        public int employeeSalary;
 
         public void ReadEmployee()
         {
             Console.Write("\nEnter employee ID : ");
-            employeeID = Convert.ToUInt32(Console.ReadLine());
+            employeeID = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Enter employee name : ");
             employeeName = (Console.ReadLine());
 
             Console.Write("Enter employee salary : ");
-            employeeSalary = Convert.ToUInt32(Console.ReadLine());
+            employeeSalary = Convert.ToInt32(Console.ReadLine());
 
         }
 
@@ -39,13 +39,13 @@ namespace D7Project1
         }
 
     }
-        internal class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
             Employee emp1 = new Employee();
             Employee emp2 = new Employee();
-            
+
             emp1.ReadEmployee();
             Console.Write("\n");
             emp2.ReadEmployee();
@@ -60,6 +60,6 @@ namespace D7Project1
 
 
         }
-        
+
     }
 }

@@ -18,11 +18,11 @@ namespace D7Project2
 
     class Customer
     {
-        private string customerName;
-        private string customerID;
-        private string customerAddress;
-        private ulong customerContactNumber;
-        private string customerMailID;
+        public string customerName;
+        public string customerID;
+        public string customerAddress;
+        public long customerContactNumber;
+        public string customerMailID;
 
         public void AddCustomer()
         {
@@ -55,11 +55,11 @@ namespace D7Project2
 
     internal class Department
     {
-        private string departmentName;
-        private string departmentId;
-        private string departmentHead;
-        private uint departmentFunds;
-        private uint departmentExpenses;
+        public string departmentName;
+        public string departmentId;
+        public string departmentHead;
+        public int departmentFunds;
+        public int departmentExpenses;
 
         public void AddDepartment()
         {
@@ -91,11 +91,11 @@ namespace D7Project2
     internal class Seller
     {
 
-        private string sellerName;
-        private string sellerID;
-        private string sellerAddress;
-        private ulong sellerContactNumber;
-        private string sellerMailID;
+        public string sellerName;
+        public string sellerID;
+        public string sellerAddress;
+        public long sellerContactNumber;
+        public string sellerMailID;
 
         public void AddSeller()
         {
@@ -128,11 +128,11 @@ namespace D7Project2
     internal class Product
     {
 
-        private string productCategory;
-        private string productBrand;
-        private string productID;
-        private string productName;
-        private uint productPrice;
+        public string productCategory;
+        public string productBrand;
+        public string productID;
+        public string productName;
+        public int productPrice;
 
         public void AddProduct()
         {

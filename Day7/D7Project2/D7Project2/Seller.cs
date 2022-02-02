@@ -6,40 +6,40 @@ using System.Threading.Tasks;
 
 namespace D7Project2
 {
-   /* internal class Seller
-    {
-        
-            private string sellerName;
-            private string sellerID;
-            private string sellerAddress;
-            private ulong sellerContactNumber;
-            private string sellerMailID;
+    /* internal class Seller
+     {
 
-            public void AddSeller()
-            {
-                //todo
-            }
+             public  string sellerName;
+             public  string sellerID;
+             public  string sellerAddress;
+             public  long sellerContactNumber;
+             public  string sellerMailID;
 
-            public void DeleteSeller()
-            {
-                //todo
-            }
+             public void AddSeller()
+             {
+                 //todo
+             }
 
-            public void DisplaySeller()
-            {
-                //todo
-            }
+             public void DeleteSeller()
+             {
+                 //todo
+             }
 
-            public void SellerTransactions()
-            {
-                //todo
-            }
+             public void DisplaySeller()
+             {
+                 //todo
+             }
 
-            public void SellerRelativePerformance()
-            {
-                //todo
-            }
-        
+             public void SellerTransactions()
+             {
+                 //todo
+             }
 
-    } */
+             public void SellerRelativePerformance()
+             {
+                 //todo
+             }
+
+
+     } */
 }

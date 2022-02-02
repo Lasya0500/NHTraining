@@ -9,11 +9,11 @@ namespace D7Project2
     /*internal class Product
     {
         
-            private string productCategory;
-            private string productBrand;
-            private string productID;
-            private string productName;
-            private uint productPrice;
+            public  string productCategory;
+            public  string productBrand;
+            public  string productID;
+            public  string productName;
+            public  int productPrice;
 
             public void AddProduct()
             {

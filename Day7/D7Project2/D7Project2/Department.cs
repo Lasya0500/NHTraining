@@ -6,39 +6,39 @@ using System.Threading.Tasks;
 
 namespace D7Project2
 {
-   /* internal class Department
-    {
-        private string departmentName;
-        private string departmentId;
-        private string departmentHead;
-        private uint departmentFunds;
-        private uint departmentExpenses;
+    /* internal class Department
+     {
+         public  string departmentName;
+         public  string departmentId;
+         public  string departmentHead;
+         public  int departmentFunds;
+         public  int departmentExpenses;
 
-        public void AddDepartment()
-        {
-            //todo
-        }
+         public void AddDepartment()
+         {
+             //todo
+         }
 
-        public void DeleteDepartment()
-        {
-            //todo
-        }
+         public void DeleteDepartment()
+         {
+             //todo
+         }
 
-        public void UpdateDepartment()
-        {
-            //todo
+         public void UpdateDepartment()
+         {
+             //todo
 
-        }
-        public void DisplayDepartment()
-        {
-            //todo
+         }
+         public void DisplayDepartment()
+         {
+             //todo
 
-        }
+         }
 
-        public void DepartmentTransactions()
-        {
-            //todo
-        }
-    }
-   */
+         public void DepartmentTransactions()
+         {
+             //todo
+         }
+     }
+    */
 }
