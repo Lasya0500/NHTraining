@@ -1,0 +1,16 @@
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\bin\Debug\Day8Project4.exe.config
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\bin\Debug\Day8Project4.exe
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\bin\Debug\Day8Project4.pdb
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\obj\Debug\Day8Project4.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\obj\Debug\Day8Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\obj\Debug\Day8Project4.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\obj\Debug\Day8Project4.exe
+C:\Users\gottu\Desktop\Training Assignments\Day8Project4\Day8Project4\obj\Debug\Day8Project4.pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\bin\Debug\Day8Project4.exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\bin\Debug\Day8Project4.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\bin\Debug\Day8Project4.pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\obj\Debug\Day8Project4.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\obj\Debug\Day8Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\obj\Debug\Day8Project4.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\obj\Debug\Day8Project4.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day8\Day8Project4\Day8Project4\obj\Debug\Day8Project4.pdb

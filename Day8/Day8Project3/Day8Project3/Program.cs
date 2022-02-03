@@ -71,10 +71,11 @@ namespace Day8Project3
             Console.WriteLine("\n\n");
             //printing name and brand of products whose price is >5000 using LINQ
             var result = from product in products
-                         where product.price > 1000
+                         where product.price > 5000
                          select product;
 
-            result.ToList().Where(product => product.price > 5000).ToList().ForEach(product => Console.Write($"\nproduct : {product.name}\t\t\tbrand : {product.brand}"));
+            result.ToList().ForEach(product => Console.Write($"\nproduct : {product.name}\t\t\tbrand : {product.brand}"));
+
 
             Console.ReadLine();
 
