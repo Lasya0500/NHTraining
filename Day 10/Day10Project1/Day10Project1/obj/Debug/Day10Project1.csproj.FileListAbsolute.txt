@@ -1,0 +1,16 @@
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe.config
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\bin\Debug\Day10Project1.pdb
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.exe
+C:\Users\gottu\Desktop\Training Assignments\Day10Project1\Day10Project1\obj\Debug\Day10Project1.pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe.config
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\bin\Debug\Day10Project1.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\bin\Debug\Day10Project1.pdb
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\obj\Debug\Day10Project1.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\obj\Debug\Day10Project1.exe
+C:\Users\gottu\Desktop\Training Assignments\DAY1 MORNING ASSIGNMENTS BY G V S S SRI LASYA(24-1-22)\Day 10\Day10Project1\Day10Project1\obj\Debug\Day10Project1.pdb
