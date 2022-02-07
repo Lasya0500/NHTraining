@@ -1,0 +1,8 @@
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\bin\Debug\Day11Project2.exe.config
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\bin\Debug\Day11Project2.exe
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\bin\Debug\Day11Project2.pdb
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\obj\Debug\Day11Project2.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\obj\Debug\Day11Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\obj\Debug\Day11Project2.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\obj\Debug\Day11Project2.exe
+C:\Users\gottu\Desktop\Training Assignments\Day11Project2\Day11Project2\obj\Debug\Day11Project2.pdb
