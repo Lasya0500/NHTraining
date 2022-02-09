@@ -1,0 +1,16 @@
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\bin\Debug\Day13Project10.exe.config
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\bin\Debug\Day13Project10.exe
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\bin\Debug\Day13Project10.pdb
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\obj\Debug\Day13Project10.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\obj\Debug\Day13Project10.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\obj\Debug\Day13Project10.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\obj\Debug\Day13Project10.exe
+C:\Users\gottu\Desktop\Training Assignments\Day13Project10\Day13Project10\obj\Debug\Day13Project10.pdb
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\bin\Debug\Day13Project10.exe.config
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\bin\Debug\Day13Project10.exe
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\bin\Debug\Day13Project10.pdb
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\obj\Debug\Day13Project10.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\obj\Debug\Day13Project10.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\obj\Debug\Day13Project10.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\obj\Debug\Day13Project10.exe
+C:\Users\gottu\Desktop\Training Assignments\Day13\Day13Project10\Day13Project10\obj\Debug\Day13Project10.pdb
