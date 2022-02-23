@@ -1,0 +1,13 @@
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\DataAccessLibrary.dll
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\bin\Debug\DataAccessLibrary.pdb
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\ClientApp\obj\Debug\ClientApp.pdb

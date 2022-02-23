@@ -1,0 +1,9 @@
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+C:\Users\gottu\Desktop\Training Assignments\MyFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "145926a6-0442-4245-a8a9-409e368027ac": {
+      "ProjectGuid": "145926a6-0442-4245-a8a9-409e368027ac",
+      "DisplayName": "MyFinalProject",
+      "ColorIndex": 0
+    },
+    "e277be0e-327d-4681-ba01-e58242614d92": {
+      "ProjectGuid": "e277be0e-327d-4681-ba01-e58242614d92",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 1
+    },
+    "87002069-0a24-4ebb-be1b-b4222113fb74": {
+      "ProjectGuid": "87002069-0a24-4ebb-be1b-b4222113fb74",
+      "DisplayName": "BusinessLogicLibrary",
+      "ColorIndex": 2
+    },
+    "008fe0b7-c325-44c1-acbe-5f61384dca02": {
+      "ProjectGuid": "008fe0b7-c325-44c1-acbe-5f61384dca02",
+      "DisplayName": "DataAccessLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
